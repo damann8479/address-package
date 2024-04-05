@@ -1,0 +1,24 @@
+{
+    "name": "damann8479/address",
+    "description": "This create invioceaddress and shippingaddress",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Damann8479\\Address\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "coder8479",
+            "email": "peter.kuehnel@mpknails.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Damann8479l\\Address\\": "src/"
+        }
+    }
+}
