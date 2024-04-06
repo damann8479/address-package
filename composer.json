@@ -15,10 +15,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Damann8479l\\Address\\": "src/"
-        }
-    }
+    "require": {}
+    
 }
